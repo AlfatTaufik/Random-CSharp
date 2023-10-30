@@ -1,0 +1,14 @@
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\bin\Debug\net7.0\variableTest.exe
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\bin\Debug\net7.0\variableTest.deps.json
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\bin\Debug\net7.0\variableTest.runtimeconfig.json
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\bin\Debug\net7.0\variableTest.dll
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\bin\Debug\net7.0\variableTest.pdb
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.AssemblyInfoInputs.cache
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.AssemblyInfo.cs
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.csproj.CoreCompileInputs.cache
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.dll
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\refint\variableTest.dll
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.pdb
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\variableTest.genruntimeconfig.cache
+C:\Users\Rizka Hikmatul\csharp\csharp\variableTest\obj\Debug\net7.0\ref\variableTest.dll
