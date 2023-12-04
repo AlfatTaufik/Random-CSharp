@@ -1,0 +1,14 @@
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\bin\Debug\net7.0\typedata.exe
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\bin\Debug\net7.0\typedata.deps.json
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\bin\Debug\net7.0\typedata.runtimeconfig.json
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\bin\Debug\net7.0\typedata.dll
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\bin\Debug\net7.0\typedata.pdb
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.AssemblyInfoInputs.cache
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.AssemblyInfo.cs
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.csproj.CoreCompileInputs.cache
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.dll
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\refint\typedata.dll
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.pdb
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\typedata.genruntimeconfig.cache
+C:\Users\Rizka Hikmatul\csharp\integralTypes\typedata\obj\Debug\net7.0\ref\typedata.dll

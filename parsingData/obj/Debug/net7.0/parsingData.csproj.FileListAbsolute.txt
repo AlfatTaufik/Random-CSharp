@@ -1,0 +1,14 @@
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.AssemblyInfoInputs.cache
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.AssemblyInfo.cs
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.csproj.CoreCompileInputs.cache
+C:\Users\Rizka Hikmatul\csharp\parsingData\bin\Debug\net7.0\parsingData.exe
+C:\Users\Rizka Hikmatul\csharp\parsingData\bin\Debug\net7.0\parsingData.deps.json
+C:\Users\Rizka Hikmatul\csharp\parsingData\bin\Debug\net7.0\parsingData.runtimeconfig.json
+C:\Users\Rizka Hikmatul\csharp\parsingData\bin\Debug\net7.0\parsingData.dll
+C:\Users\Rizka Hikmatul\csharp\parsingData\bin\Debug\net7.0\parsingData.pdb
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.dll
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\refint\parsingData.dll
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.pdb
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\parsingData.genruntimeconfig.cache
+C:\Users\Rizka Hikmatul\csharp\parsingData\obj\Debug\net7.0\ref\parsingData.dll
