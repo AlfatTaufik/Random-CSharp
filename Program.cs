@@ -1,10 +1,23 @@
-﻿string value = "1642";
-int result = 0;
-if (int.TryParse(value, out result))
+﻿void SayHello()
 {
-    Console.WriteLine($"Your result is good {80 + result}");
+    Console.WriteLine("Halo semuanya!");
 }
-else
+
+SayHello();
+
+void DisplayRandomNum()
 {
-    Console.WriteLine("You have entered a bad number!");
+    int[] arrRandom = new int[5];
+    for (int i = 0; i < 4; i++) 
+    { 
+    Random number = new Random();
+    int randomNum = number.Next(1, 18);
+        arrRandom[i] = randomNum;
+    }
+    for (int c = 0; c < arrRandom.Length; c++)
+    {
+        Console.WriteLine(arrRandom[c]);
+    }
 }
+
+DisplayRandomNum();
