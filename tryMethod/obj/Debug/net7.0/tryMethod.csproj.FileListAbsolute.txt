@@ -1,0 +1,14 @@
+C:\Users\Rizka Hikmatul\csharp\tryMethod\bin\Debug\net7.0\tryMethod.exe
+C:\Users\Rizka Hikmatul\csharp\tryMethod\bin\Debug\net7.0\tryMethod.deps.json
+C:\Users\Rizka Hikmatul\csharp\tryMethod\bin\Debug\net7.0\tryMethod.runtimeconfig.json
+C:\Users\Rizka Hikmatul\csharp\tryMethod\bin\Debug\net7.0\tryMethod.dll
+C:\Users\Rizka Hikmatul\csharp\tryMethod\bin\Debug\net7.0\tryMethod.pdb
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.AssemblyInfoInputs.cache
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.AssemblyInfo.cs
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.dll
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\refint\tryMethod.dll
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.pdb
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\tryMethod.genruntimeconfig.cache
+C:\Users\Rizka Hikmatul\csharp\tryMethod\obj\Debug\net7.0\ref\tryMethod.dll
