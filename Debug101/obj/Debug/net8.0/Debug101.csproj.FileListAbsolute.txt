@@ -1,0 +1,14 @@
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfoInputs.cache
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfo.cs
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.csproj.CoreCompileInputs.cache
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.dll
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\refint\Debug101.dll
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.pdb
+C:\Users\alfat\OneDrive\Desktop\Debug101\bin\Debug\net8.0\Debug101.exe
+C:\Users\alfat\OneDrive\Desktop\Debug101\bin\Debug\net8.0\Debug101.deps.json
+C:\Users\alfat\OneDrive\Desktop\Debug101\bin\Debug\net8.0\Debug101.runtimeconfig.json
+C:\Users\alfat\OneDrive\Desktop\Debug101\bin\Debug\net8.0\Debug101.dll
+C:\Users\alfat\OneDrive\Desktop\Debug101\bin\Debug\net8.0\Debug101.pdb
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\Debug101.genruntimeconfig.cache
+C:\Users\alfat\OneDrive\Desktop\Debug101\obj\Debug\net8.0\ref\Debug101.dll
