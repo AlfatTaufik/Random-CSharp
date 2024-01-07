@@ -1,0 +1,14 @@
+D:\csharpProject\throwexception101\bin\Debug\net8.0\throwexception101.exe
+D:\csharpProject\throwexception101\bin\Debug\net8.0\throwexception101.deps.json
+D:\csharpProject\throwexception101\bin\Debug\net8.0\throwexception101.runtimeconfig.json
+D:\csharpProject\throwexception101\bin\Debug\net8.0\throwexception101.dll
+D:\csharpProject\throwexception101\bin\Debug\net8.0\throwexception101.pdb
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.AssemblyInfoInputs.cache
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.AssemblyInfo.cs
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.csproj.CoreCompileInputs.cache
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.dll
+D:\csharpProject\throwexception101\obj\Debug\net8.0\refint\throwexception101.dll
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.pdb
+D:\csharpProject\throwexception101\obj\Debug\net8.0\throwexception101.genruntimeconfig.cache
+D:\csharpProject\throwexception101\obj\Debug\net8.0\ref\throwexception101.dll
